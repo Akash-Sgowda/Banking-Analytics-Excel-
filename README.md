@@ -54,7 +54,7 @@ This project demonstrates my ability to work with real-world financial data, app
 It highlights my skills in data analysis, visualization, and business intelligence, making it highly relevant for data analyst roles.
 
 # Snap/Demo
- [!Overview](https://github.com/Akash-Sgowda/Banking-Analytics-Excel-/blob/main/Overview.png)
+![Overview](https://github.com/Akash-Sgowda/Banking-Analytics-Excel-/blob/main/Overview.png).
 
 
 
