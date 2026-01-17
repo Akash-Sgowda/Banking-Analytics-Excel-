@@ -6,8 +6,8 @@ This project focuses on understanding loan distribution, customer behavior, risk
 The dashboards provide a clear overview of key banking metrics, enabling stakeholders to monitor trends, evaluate loan quality, and identify high-risk and high-value segments efficiently.
 
 # Objectives
-Analyze customer loan data to identify trends and patterns
-Understand loan purposes and customer borrowing behavior
+Analyze customer loan data to identify trends and patterns.  
+Understand loan purposes and customer borrowing behavior.  
 Evaluate loan performance based on grades, verification status, and ownership.
 Provide insights that support risk assessment and strategic decisions.
 
