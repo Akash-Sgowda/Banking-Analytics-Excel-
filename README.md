@@ -55,7 +55,7 @@ It highlights my skills in data analysis, visualization, and business intelligen
 
 # Snap/Demo
 ![Overview](https://github.com/Akash-Sgowda/Banking-Analytics-Excel-/blob/main/Overview.png).
-
+ [Finance](https://github.com/Akash-Sgowda/Banking-Analytics-Excel-/blob/main/Finance.png).
 
 
 
