@@ -7,6 +7,7 @@ The dashboards provide a clear overview of key banking metrics, enabling stakeho
 
 # Objectives
 Analyze customer loan data to identify trends and patterns.
+
 Understand loan purposes and customer borrowing behavior.
 Evaluate loan performance based on grades, verification status, and ownership.
 Provide insights that support risk assessment and strategic decisions.
